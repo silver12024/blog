@@ -1,0 +1,62 @@
+.title-post{
+    text-align: center;
+    /* color: #000; */
+    font-size: 42px;
+}
+
+.info-post p{
+    margin-bottom: 0;
+}
+
+.content-post p{
+    margin-top: 16px;
+}
+
+.info-post .primary{
+    border: 3px solid rgb(163, 19, 144);
+    border-radius: 5px;
+    background-color: rgba(163, 19, 144, 0.2);
+    color: rgb(163, 19, 144);
+}
+
+.info-post .secondary{
+    border: 3px solid rgb(196, 24, 24);
+    border-radius: 5px;
+    background-color: rgba(196, 24, 24, 0.2);
+    color: rgb(196, 24, 24);
+}
+
+.info-post .success{
+    border: 3px solid rgb(132, 163, 19);
+    border-radius: 5px;
+    background-color: rgba(132, 163, 19, 0.2);
+    color: rgb(132, 163, 19);
+}
+
+.info-post .danger{
+    border: 3px solid rgb(19, 163, 67);
+    border-radius: 5px;
+    background-color: rgba(19, 163, 67, 0.2);
+    color: rgb(19, 163, 67);
+}
+
+div .info{
+    margin-left: 44px;
+    margin-top: -26px;   
+    color: #6f5d5d
+}
+
+div .bi{
+    font-size : 30px;
+}
+
+div .time-comment{
+    margin-left: 96px;
+    margin-top: -40px;
+    font-style: italic;
+    opacity: 0.5;
+}
+
+div .content-comment{
+    margin-top: 45px;
+}
